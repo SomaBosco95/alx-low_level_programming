@@ -1,4 +1,4 @@
-#include <stdio.>
+#include <stdio.h>
 /**
  * main - A program that a line using the ptintf funtion
  * Return: 0 (success)
