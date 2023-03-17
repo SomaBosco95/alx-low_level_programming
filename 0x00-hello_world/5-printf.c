@@ -2,7 +2,7 @@
 
 /**
  * main-using printf
- * Return:this returns 0
+ * Return: Always 0 (succcess)
  */
 int main(void)
 {
